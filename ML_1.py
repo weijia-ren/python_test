@@ -2,7 +2,7 @@
 #%% [markdown]
 # ## This codes give the basic models in sklearn
 
-# ###   1. The bike usage prediction project 
+# ###  1. The bike usage prediction project 
 
 #%%
 from sklearn.linear_model import LinearRegression
